@@ -1,0 +1,16 @@
+/*
+Our chefs
+*/
+.chef-box{
+    span{
+           text-transform: capitalize;
+    color: $secondary-color;
+    font-size: 12px;
+    font-weight: 600;
+    }
+    h4{
+        margin-top:15px;
+        margin-bottom: 0px;
+        text-transform: uppercase;
+    }
+}
